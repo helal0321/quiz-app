@@ -1,0 +1,85 @@
+[
+    {
+        "title":"what is the markup language",
+        "answer1":"css",
+        "answer2":"html",
+        "answer3":"javascript",
+        "answer4":"pythone",
+        "correctAnswer":"html"
+    },
+    {
+        "title":"what is used to make new line",
+        "answer1":"hr",
+        "answer2":"del",
+        "answer3":"br",
+        "answer4":"h4",
+        "correctAnswer":"br"
+    }, {
+        "title":"how to make horizintal line",
+        "answer1":"hr",
+        "answer2":"br",
+        "answer3":"del",
+        "answer4":"strong",
+        "correctAnswer":"hr"
+    },
+    {
+        "title":"console.log used to",
+        "answer1":"get input from user",
+        "answer2":"print somthing",
+        "answer3":"show data in web page",
+        "answer4":"call css file",
+        "correctAnswer":"print somthing"
+    },
+    {
+        "title":"what is used to get value the user entered",
+        "answer1":"input",
+        "answer2":"input.user",
+        "answer3":"input.value",
+        "answer4":"input.define_user",
+        "correctAnswer":"input.value"
+    },
+    {
+        "title":"console.log used to",
+        "answer1":"get input from user",
+        "answer2":"print somthing",
+        "answer3":"show data in web page",
+        "answer4":"call css file",
+        "correctAnswer":"print somthing"
+    },   {
+        "title":"how to make the form submit in another page",
+        "answer1":"use new_page",
+        "answer2":"use subminNew_",
+        "answer3":"use input_new",
+        "answer4":"use _blank",
+        "correctAnswer":"use _blank"
+    },
+    {
+        "title":"what of any of this languages used in front end ",
+        "answer1":"html",
+        "answer2":"php",
+        "answer3":"pythone",
+        "answer4":"java",
+        "correctAnswer":"html"
+    },
+    {
+        "title":"what of this languages is not a programming language",
+        "answer1":"pythone",
+        "answer2":"go",
+        "answer3":"css",
+        "answer4":"javascript",
+        "correctAnswer":"css"
+    },
+    {
+        "title":"what is used to make the skeletone of the page",
+        "answer1":"css",
+        "answer2":"php",
+        "answer3":"html",
+        "answer4":"javascript",
+        "correctAnswer":"html"
+    }
+
+  
+
+    
+    
+]
